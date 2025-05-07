@@ -1,5 +1,4 @@
 Feature: AImonk homepage
-
   Scenario: Verify AImonk homepage loads correctly
 Given the user launches the AImonk website
 Then the page title should contain "AIMonk"
